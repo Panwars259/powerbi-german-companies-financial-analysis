@@ -55,7 +55,7 @@ DIVIDE(
 ```
 
 ### 🔹 Step 3 — Dashboard Design
-KPIs for quick insights
+**KPIs for Quick Insights**
 
 Bar & trend charts for comparing companies
 
@@ -78,15 +78,11 @@ Forecasting for future performance
 ---
 
 ## 5️⃣ Key Insights
-Merck KGaA leads in total revenue among the 12 companies
-
-Average Net Margin ~9.8%, indicating solid profitability
-
-Liquidity ratios show strong short-term financial positions
-
-Weighted ROA/ROE highlight efficiency differences by company size
-
-Forecasting suggests continued growth in revenue and net income
+- **Merck KGaA** leads in total revenue among the 12 companies
+- **Avg. Net Margin ~9.8%**, indicating solid profitability
+- Liquidity ratios show **strong short-term financial stability**
+- Weighted ROA/ROE reveal efficiency differences by company size
+- Forecasting suggests **continued revenue & net-income growth**
 
 ---
 
@@ -109,8 +105,6 @@ Navigate through all pages using the on-report arrows
 ---
 
 ## 8️⃣ Repository Structure
-java
-Copy code
 📁 Data                     → Raw dataset
 📁 Images                   → Dashboard screenshots
 📁 Docs                     → Detailed README (this file)
