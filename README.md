@@ -65,5 +65,11 @@ Some of the core measures implemented in this project:
 
 ---
 
+## 📥 Download the Dashboard
+You can download the Power BI file here:  
+👉 **Financial Analysis dashboard.pbit**
+
+---
+
 📂 For a detailed breakdown of steps, methodology, and full DAX formulas →  
 👉 [Detailed README](Detailed_README.md)
