@@ -44,7 +44,7 @@ Some of the core measures implemented in this project:
 - **Latest Liquidity Ratio**  
 - **Highest ROA Company**  
 
-*(Full DAX formulas available in [Detailed README](Detailed_README.md))*  
+*(Full DAX formulas available in [Detailed README])*  
 
 ---
 
@@ -93,4 +93,4 @@ You can download the Power BI file here:
 ---
 
 📂 For a detailed breakdown of steps, methodology, and full DAX formulas →  
-👉 [Detailed README](Detailed_README.md)
+👉 [Detailed README](https://github.com/Panwars259/powerbi-german-companies-financial-analysis/edit/main/Docs/Detailed_README.md#L81C0)
