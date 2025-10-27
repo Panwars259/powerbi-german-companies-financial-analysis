@@ -67,13 +67,13 @@ Forecasting for future performance
 
 ## 4️⃣ Dashboard Pages (Screenshots)
 📌 Page 1 — Profit & Income Overview
-![](../Images/Revenue & Profit Overview.png)
+![]("../Images/Revenue & Profit Overview.png")
 
 📌 Page 2 — Performance Ratios Analysis
-![](../Images/Performance Ratios Analysis.png)
+![]("../Images/Performance Ratios Analysis.png")
 
 📌 Page 3 — Growth & Assets Insights
-![](../Images/Growth & Assets Insights.png)
+![]("../Images/Growth & Assets Insights.png")
 
 ---
 
