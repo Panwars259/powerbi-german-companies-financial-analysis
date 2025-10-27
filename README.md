@@ -47,10 +47,10 @@ Some of the core measures implemented in this project:
 ## 📷 Dashboard Screenshots  
 
 - Page 1 – Profit & Income Overview  
-  ![Dashboard Page 1](images/dashboard_page1.png)  
+  ![Dashboard Page 1](https://github.com/Panwars259/powerbi-german-companies-financial-analysis/blob/main/Images/Revenue%20%26%20Profit%20Overview.png)  
 
 - Page 2 – Performance Ratios Analysis  
-  ![Dashboard Page 2](images/dashboard_page2.png)  
+  ![Dashboard Page 2]()  
 
 - Page 3 – Growth & Assets Insights  
   ![Dashboard Page 3](images/dashboard_page3.png)  
