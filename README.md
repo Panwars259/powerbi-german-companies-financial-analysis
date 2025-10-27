@@ -14,6 +14,27 @@ The dashboard highlights **Revenue & Net Income trends, Profitability Ratios, Li
 
 ---
 
+## 📌 Tech Stack
+- Power BI
+- Data Cleaning & Modeling (Power Query, DAX)
+- Excel / CSV Financial Data
+
+---
+
+## 📌 Key Insights
+- Merck KGaA has the highest revenue among the 12 companies.
+- Average Net Margin across companies is 9.83%.
+- Liquidity ratios indicate strong short-term solvency for most companies.
+
+---
+
+## 📌 How to Use
+1. Download the `.pbit` file from this repo.
+2. Open it in Power BI Desktop.
+3. Explore all 3 pages using navigation arrows.
+
+---
+
 ## 📐 Key DAX Measures  
 Some of the core measures implemented in this project:  
 - **Revenue Growth (%)**  
